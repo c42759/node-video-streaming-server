@@ -1,6 +1,4 @@
 name: Node Video Streaming Server
-description: ''
-runs: Carlos Santos
 
 on:
     push:
